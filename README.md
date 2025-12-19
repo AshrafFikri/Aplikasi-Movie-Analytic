@@ -14,6 +14,7 @@ Tech Stack
 - Tailwind CSS
 - Recharts
 - Lucide React Icons
+- Node JS
 
 Instalasi
  - npm install
